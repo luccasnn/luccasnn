@@ -1,22 +1,37 @@
 # Olá, eu sou o Luccas Nantes! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Positivo (Campus Ecoville)**, em Curitiba. Atualmente, estou na reta final da graduação e focado em ingressar no mercado como Desenvolvedor ou Analista.
+Sou um entusiasta de tecnologia e desenvolvedor em formação, cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Positivo (Ecoville)** em Curitiba. Tenho foco em criar soluções que unem lógica complexa, interfaces intuitivas e inteligência de dados.
 
 ### 🚀 Sobre mim
-- 🎓 Finalizando o curso de ADS (2026).
-- 💡 Interessado em **Data Science**, **Business Intelligence** e **Desenvolvimento de Software**.
-- 🛠️ No momento, estou aprimorando meus conhecimentos em **Kotlin (Jetpack Compose)**, **Android Development** e **SAP ABAP**.
+- 🎓 **Formatura em 2026:** Atualmente na fase final da graduação em ADS.
+- 💼 **Foco Profissional:** Buscando oportunidades de Estágio ou Júnior em Desenvolvimento (Mobile/Backend) ou Análise de Dados.
+- 💡 **Perfil Multistack:** Experiência prática em ecossistemas Android, .NET e Web (PHP).
+- 🛠️ **Foco Atual:** Especializando-me em **Kotlin (Jetpack Compose)**, **SAP ABAP** e **Business Intelligence**.
+
+### 📂 Projetos em Destaque
+
+#### 📱 Mobile (Android & Kotlin)
+- **[Twitch Clone](https://github.com/luccasnn/TelasBD-version33):** Replicação da interface da Twitch, com sistema de busca funcional, login e persistência de dados de lives em tempo real.
+- **[Sudoku Master](https://github.com/luccasnn/Projeto-Sudoku):** Desenvolvimento de um jogo de lógica focado em manipulação de matrizes e algoritmos de validação.
+
+#### 🖥️ Desktop & Backend (.NET / PHP)
+- **[API Integrator (C#)](https://github.com/luccasnn/APItreino):** Aplicação Windows Forms focada no consumo assíncrono de APIs REST e tratamento de dados complexos.
+- **[ERP Full-Stack (PHP/MySQL)](https://github.com/luccasnn/ProjetoFinalPHP):** Sistema de gestão completo (CRUD) com controle de sessões, segurança e banco de dados relacional.
+
+#### 🏗️ Infraestrutura & BI
+- **Migração de Servidores:** Experiência prática na migração e configuração de ambientes Windows Server.
+- **Data Analytics:** Desenvolvimento de dashboards e relatórios utilizando **Power BI**.
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Kotlin, SAP ABAP, SQL.
-- **Ferramentas:** Git, GitHub, Power BI.
-- **Interesses:** Ciência de Dados e Automação de Processos.
+- **Linguagens:** Kotlin, C#, PHP, Java, SQL e SAP ABAP (em aprendizado).
+- **Mobile:** Android SDK, Jetpack Compose, XML.
+- **Web/Backend:** .NET Core, Maven, MySQL, Apache.
+- **Ferramentas:** Git, GitHub, Power BI, Windows Server.
 
-### 📂 Projetos em destaque
-- **Sudoku em Kotlin:** Um projeto pessoal focado em lógica de programação e interface Android.
-- **Migração de Servidores:** Experiência prática com infraestrutura e Windows Server.
+### 🎮 Além do Código
+- **Hardware:** Entusiasta de montagem e otimização de computadores de alta performance.
 
-
-### 📫 Como me encontrar
-- **GitHub:** [luccasnn](https://github.com/luccasnn)
-- **Localização:** Curitiba, PR.
+### 📫 Vamos nos conectar?
+- 💼 **LinkedIn:** [linkedin.com/in/luccas-nantes](https://www.linkedin.com/in/luccas-nantes-b666a8190/)
+- 🐙 **GitHub:** [github.com/luccasnn](https://github.com/luccasnn)
+- 📍 **Localização:** Curitiba, PR (Disponível para oportunidades presenciais e híbridas).
