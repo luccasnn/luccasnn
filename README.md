@@ -39,4 +39,4 @@ Sou um entusiasta de tecnologia e desenvolvedor em formação, cursando **Análi
 ### 📫 Vamos nos conectar?
 - 💼 **LinkedIn:** [linkedin.com/in/luccas-nantes](https://www.linkedin.com/in/luccas-nantes-b666a8190/)
 - 🐙 **GitHub:** [github.com/luccasnn](https://github.com/luccasnn)
-- 📍 **Localização:** Curitiba, PR (Disponível para oportunidades presenciais e híbridas).
+- 📍 **Localização:** Curitiba, PR (Disponível para oportunidades presenciais, híbridas e remoto).
