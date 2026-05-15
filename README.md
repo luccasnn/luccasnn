@@ -9,6 +9,14 @@ Sou um entusiasta de tecnologia e desenvolvedor em formação, cursando **Análi
 
 ### 📂 Projetos em Destaque
 
+#### 📊 Data Science & IA (Python)
+- **[Análise Exploratória — Titanic](https://github.com/luccasnn/analise-titanic):** Exploração completa do dataset do Titanic com pandas e matplotlib, identificando padrões de sobrevivência por gênero, classe social e idade.
+- **[Dashboard Interativo de Vendas](https://github.com/luccasnn/dashboard-vendas):** Dashboard com 4 gráficos interativos (hover, zoom, filtros) construído com Plotly e hospedado via GitHub Pages.
+
+#### 🏗️ Infraestrutura & BI
+- **Migração de Servidores:** Experiência prática na migração e configuração de ambientes Windows Server.
+- **Data Analytics:** Desenvolvimento de dashboards e relatórios utilizando **Power BI**.
+
 #### 📱 Mobile (Android & Kotlin)
 - **[Twitch Clone](https://github.com/luccasnn/TelasBD-version33):** Replicação da interface da Twitch, com sistema de busca funcional, login e persistência de dados de lives em tempo real.
 - **[Sudoku Master](https://github.com/luccasnn/Projeto-Sudoku):** Desenvolvimento de um jogo de lógica focado em manipulação de matrizes e algoritmos de validação.
@@ -17,13 +25,6 @@ Sou um entusiasta de tecnologia e desenvolvedor em formação, cursando **Análi
 - **[API Integrator (C#)](https://github.com/luccasnn/APItreino):** Aplicação Windows Forms focada no consumo assíncrono de APIs REST e tratamento de dados complexos.
 - **[ERP Full-Stack (PHP/MySQL)](https://github.com/luccasnn/ProjetoFinalPHP):** Sistema de gestão completo (CRUD) com controle de sessões, segurança e banco de dados relacional.
 
-#### 🏗️ Infraestrutura & BI
-- **Migração de Servidores:** Experiência prática na migração e configuração de ambientes Windows Server.
-- **Data Analytics:** Desenvolvimento de dashboards e relatórios utilizando **Power BI**.
-
-#### 📊 Data Science & IA (Python)
-- **[Análise Exploratória — Titanic](https://github.com/luccasnn/analise-titanic):** Exploração completa do dataset do Titanic com pandas e matplotlib, identificando padrões de sobrevivência por gênero, classe social e idade.
-- **[Dashboard Interativo de Vendas](https://github.com/luccasnn/dashboard-vendas):** Dashboard com 4 gráficos interativos (hover, zoom, filtros) construído com Plotly e hospedado via GitHub Pages.
 
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Kotlin, C#, PHP, Java, SQL, Python e SAP ABAP (em aprendizado).
