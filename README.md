@@ -1,5 +1,4 @@
 # Olá, eu sou o Luccas Nantes! 👋
-
 Sou um entusiasta de tecnologia e desenvolvedor em formação, cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Positivo (Ecoville)** em Curitiba. Tenho foco em criar soluções que unem lógica complexa, interfaces intuitivas e inteligência de dados.
 
 ### 🚀 Sobre mim
@@ -22,10 +21,15 @@ Sou um entusiasta de tecnologia e desenvolvedor em formação, cursando **Análi
 - **Migração de Servidores:** Experiência prática na migração e configuração de ambientes Windows Server.
 - **Data Analytics:** Desenvolvimento de dashboards e relatórios utilizando **Power BI**.
 
+#### 📊 Data Science & IA (Python)
+- **[Análise Exploratória — Titanic](https://github.com/luccasnn/analise-titanic):** Exploração completa do dataset do Titanic com pandas e matplotlib, identificando padrões de sobrevivência por gênero, classe social e idade.
+- **[Dashboard Interativo de Vendas](https://github.com/luccasnn/dashboard-vendas):** Dashboard com 4 gráficos interativos (hover, zoom, filtros) construído com Plotly e hospedado via GitHub Pages.
+
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Kotlin, C#, PHP, Java, SQL e SAP ABAP (em aprendizado).
+- **Linguagens:** Kotlin, C#, PHP, Java, SQL, Python e SAP ABAP (em aprendizado).
 - **Mobile:** Android SDK, Jetpack Compose, XML.
 - **Web/Backend:** .NET Core, Maven, MySQL, Apache.
+- **Data Science:** pandas, NumPy, matplotlib, Plotly, scikit-learn.
 - **Ferramentas:** Git, GitHub, Power BI, Windows Server.
 
 ### 🎮 Além do Código
