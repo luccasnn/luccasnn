@@ -12,6 +12,7 @@ Sou um entusiasta de tecnologia e desenvolvedor em formação, cursando **Análi
 #### 📊 Data Science & IA (Python)
 - **[Análise Exploratória — Titanic](https://github.com/luccasnn/analise-titanic):** Exploração completa do dataset do Titanic com pandas e matplotlib, identificando padrões de sobrevivência por gênero, classe social e idade.
 - **[Dashboard Interativo de Vendas](https://github.com/luccasnn/dashboard-vendas):** Dashboard com 4 gráficos interativos (hover, zoom, filtros) construído com Plotly e hospedado via GitHub Pages.
+- **[Scraper de Notícias em Alta](https://github.com/luccasnn/analise-noticias):** Coleta automática de notícias em tempo real via NewsAPI, com análise de fontes, volume diário e horários de pico de publicação.
 
 #### 🏗️ Infraestrutura & BI
 - **Migração de Servidores:** Experiência prática na migração e configuração de ambientes Windows Server.
