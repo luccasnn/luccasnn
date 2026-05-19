@@ -14,6 +14,7 @@ Sou um entusiasta de tecnologia e desenvolvedor em formação, cursando **Análi
 - **[Dashboard Interativo de Vendas](https://github.com/luccasnn/dashboard-vendas):** Dashboard com 4 gráficos interativos (hover, zoom, filtros) construído com Plotly e hospedado via GitHub Pages.
 - **[Scraper de Notícias em Alta](https://github.com/luccasnn/analise-noticias):** Coleta automática de notícias em tempo real via NewsAPI, com análise de fontes, volume diário e horários de pico de publicação.
 - **[Limpeza de Dados — RH IBM](https://github.com/luccasnn/limpeza-de-dados):** Tratamento de dados reais com pandas — remoção de duplicatas, valores impossíveis, nulos e inconsistências de texto.
+- **[Análise de Sentimento — Tweets](https://github.com/luccasnn/analise_sentimento):** Classificação automática de sentimentos em tweets reais com VADER e NLTK — positivo, negativo e neutro comparados com labels reais.
 
 #### 🏗️ Infraestrutura & BI
 - **Migração de Servidores:** Experiência prática na migração e configuração de ambientes Windows Server.
